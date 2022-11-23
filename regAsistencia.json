@@ -1,5 +1,8 @@
 {
-    "idUsuario": "000001",
-    "nombre": ""
-    
+    "01":{
+        "nombre":"Harold"
+    },
+    "02":{
+        "nombre":"asaas"
+    }
 }
