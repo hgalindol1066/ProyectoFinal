@@ -1,8 +1,20 @@
 {
-    "01":{
-        "nombre":"Harold"
+    "01": {
+        "nombre": "Harold",
+        "asistencias": [
+            "23-11-2022"
+        ]
     },
-    "02":{
-        "nombre":"asaas"
+    "02": {
+        "nombre": "Lina",
+        "asistencias": []
+    },
+    "03": {
+        "nombre": "Karen",
+        "asistencias": []
+    },
+    "04": {
+        "nombre": "Daniel",
+        "asistencias": []
     }
 }
