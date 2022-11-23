@@ -1,5 +1,4 @@
 from datetime import date
-from datetime import datetime
 import json
 
 
@@ -26,6 +25,3 @@ def escribir_datos(id):
         json.dump(archivo, file, indent=4)
 
 
-
-# datos = getUserInfo("01")
-# print(datos)

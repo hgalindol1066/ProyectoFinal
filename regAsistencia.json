@@ -7,14 +7,26 @@
     },
     "02": {
         "nombre": "Lina",
-        "asistencias": []
+        "asistencias": [
+            "23-11-2022",
+            "23-11-2022"
+        ]
     },
     "03": {
         "nombre": "Karen",
-        "asistencias": []
+        "asistencias": [
+            "23-11-2022",
+            "23-11-2022",
+            "23-11-2022"
+        ]
     },
     "04": {
         "nombre": "Daniel",
-        "asistencias": []
+        "asistencias": [
+            "23-11-2022",
+            "23-11-2022",
+            "23-11-2022",
+            "23-11-2022"
+        ]
     }
 }
