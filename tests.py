@@ -6,11 +6,10 @@ def cargar_datos():
         return json.load(file)
 
 def getUserInfo(id):
-    #regAsistencia[]
-    pass
+    print(regAsistencia[id])
 
     
 regAsistencia = cargar_datos()
 
 print(regAsistencia)
-
+getUserInfo("01")
